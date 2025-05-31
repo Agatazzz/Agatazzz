@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Agatazzz
-- 👀 I’m interested in artes e designer grafico
+- 👀 I’m interested in Físic and Astronomy
 - 🌱 I’m currently learning usar a plataforma
-- 💞️ I’m looking to collaborate on pensamento computacionak
+- 💞️ I’m looking to collaborate on pensamento computacional
 
 <!---
 Agatazzz/Agatazzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
