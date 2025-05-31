@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Agatazzz
-- 👀 I’m interested in Físic and Astronomy
+- 👀 I’m interested in Fisic and Astronomy
 - 🌱 I’m currently learning usar a plataforma
 - 💞️ I’m looking to collaborate on pensamento computacional
 
